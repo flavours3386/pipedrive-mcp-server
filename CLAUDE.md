@@ -1,3 +1,7 @@
+---
+tags: [pipedrive, mcp, ai-tools]
+---
+
 # Pipedrive MCP Server
 
 ## Build instructions
